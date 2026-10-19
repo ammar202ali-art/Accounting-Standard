@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792070416263,
+      "tag": "0000_admin_jobs_content",
+      "breakpoints": true
+    }
+  ]
+}
